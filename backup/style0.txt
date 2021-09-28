@@ -1,0 +1,30 @@
+header.jumbotron{
+    background-colorrgb(183, 207, 221);
+    margin 0px;
+    padding25px;
+    margin-top 10px;
+    height 100px;
+}
+footer {
+    background-color #f2f2f2; padding 10px;
+    }
+a.btn{
+    padding 0px 100px 0px 0px;
+    margin 8px;
+    text-align left;
+}
+section{
+    margin-top 15px;
+}
+.headerstyle{
+    background-color blue;
+}
+.logo {
+    margin 20px 20px 20px 20px;
+    
+  }
+  
+.onheader{
+   margin 0px 0px 100px 0px;
+   background-color brown;
+}
