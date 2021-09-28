@@ -73,7 +73,33 @@ a.btn{
     padding-right: 20px;
 }
 
-.backgroud{
+div.background{
     background-image: url('background.jpeg');
+    background-position: 100% 50%;
+    background-repeat: no-repeat;
+    height: 450px;
+ 
+  
+}
+#logohismasti{
+    text-align: left;
+    padding-top: 150px;
+    padding-left:100px;
+}
+#logohismasti2{
+    text-align: left;
+  
+    padding-left:0px
+}
+#logoh{
+    color: rgb(148, 143, 143);
+    font: 30px Arial, sans-serif;
 
+}
+#kampus{
+    border-radius: 50px; 
+    width: 500px;
+}
+#kmps{
+margin: 20px;
 }
